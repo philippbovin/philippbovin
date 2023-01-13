@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some traidings projects: high frequency trading, analitics for individual investors or big hedge funds etc.
 - 📫 How to reach me @philippbovin
-- Skills: SQL, HTML, CSS, Django, Bootstrap, Unittest, Pythonanywhere
+- Skills:
+    Git, PIP, Bash, Shell, IDLE, OOP, PEP, CRUD,
+    SQL, HTML, CSS, Django, Django ORM, Bootstrap,
+    Unittest, Pythonanywhere and etc.
 
 <!---
 philippbovin/philippbovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
