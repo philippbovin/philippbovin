@@ -8,6 +8,8 @@
     SQL, HTML, CSS, Django, Django ORM, Bootstrap,
     Unittest, Pythonanywhere and etc.
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!---
 philippbovin/philippbovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
