@@ -8,8 +8,7 @@
     SQL, HTML, CSS, Django, Django ORM, Bootstrap,
     Unittest, Pythonanywhere and etc.
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=philippbovin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+[![Codewars Badge](https://www.codewars.com/users/philippbovin/badges/large)](https://www.codewars.com/users/philippbovin)
 
 <!---
 philippbovin/philippbovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
