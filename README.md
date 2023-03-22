@@ -9,7 +9,8 @@
     Unittest, Pythonanywhere and etc.
     
 [![Codewars Badge](https://www.codewars.com/users/philippbovin/badges/small)](https://www.codewars.com/users/philippbovin)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!---
 philippbovin/philippbovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
