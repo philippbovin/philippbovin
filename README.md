@@ -8,7 +8,7 @@
     SQL, HTML, CSS, Django, Django ORM, Bootstrap,
     Unittest, Pythonanywhere and etc.
     
-[![Codewars Badge](https://www.codewars.com/users/philippbovin/badges/medium)](https://www.codewars.com/users/philippbovin)
+[![Codewars Badge](https://www.codewars.com/users/philippbovin/badges/small)](https://www.codewars.com/users/philippbovin)
 
 <!---
 philippbovin/philippbovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
