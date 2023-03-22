@@ -7,7 +7,8 @@
     Git, PIP, Bash, Shell, IDLE, OOP, PEP, CRUD,
     SQL, HTML, CSS, Django, Django ORM, Bootstrap,
     Unittest, Pythonanywhere and etc.
-
+    
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
