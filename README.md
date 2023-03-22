@@ -8,7 +8,7 @@
     SQL, HTML, CSS, Django, Django ORM, Bootstrap,
     Unittest, Pythonanywhere and etc.
     
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/ align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 
 
 <!---
